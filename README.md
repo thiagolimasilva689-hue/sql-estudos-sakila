@@ -1,20 +1,19 @@
+# 📊 Estudos de SQL - Banco Sakila
 
-🛢️ estudos em SQL utilizando o banco Sakila. 
+Bem-vindo(a) ao meu repositório de estudos práticos de SQL! 
 
-🗃️ Conteúdos: 
+Este espaço foi criado para documentar a minha evolução diária na linguagem SQL, utilizando como base o banco de dados de exemplo **Sakila** (um banco clássico de locação de filmes). O objetivo principal é consolidar os fundamentos e me preparar para minha primeira oportunidade como Estagiário/Júnior em Dados ou QA.
 
-- SELECT e filtros 
+## 🎯 Objetivos de Aprendizado
 
-- JOINs 
+- Praticar a sintaxe do SQL do básico ao avançado.
+- Desenvolver o raciocínio lógico para resolução de problemas.
+- Criar o hábito de documentar o código e organizar repositórios (Clean Code).
 
-- GROUP BY e agregações 
+## 📂 Estrutura do Repositório
 
-- Desafios práticos 
+O conteúdo está organizado por nível de complexidade para facilitar a navegação:
 
-  
-
-✨ Objetivo: aprendizado para estágio em dados e melhorar  as minhas habilidades em dados 
-
- 
-
-Minha evolução 📈: 
+- **[basico](./basico)**: Comandos iniciais, `SELECT`, `WHERE`, filtros e ordenações.
+- **[funcoes](./funcoes)**: Uso de funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`) e tratamento de strings/datas.
+- **[joins](./joins)**: Cruzamento de dados entre múltiplas tabelas (`INNER JOIN`, `LEFT JOIN`, etc.).
